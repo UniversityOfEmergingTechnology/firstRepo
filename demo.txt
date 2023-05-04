@@ -1,0 +1,1 @@
+this is our first repository and we have initialized it with command git init.
